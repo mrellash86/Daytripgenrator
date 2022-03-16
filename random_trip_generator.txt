@@ -1,0 +1,1 @@
+Here within lies a simple, random trip generator.  Your suprise destination awaits.
